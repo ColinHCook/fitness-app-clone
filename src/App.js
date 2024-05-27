@@ -11,7 +11,7 @@ import "animate.css/animate.min.css";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/fitness-app-clone">
       <div className="container">
         <main>
           <Header />

@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4",
     "tailwindcss": "^2.2.19"
   },
-  "homepage": "https://colinhcook.github.io/",
+  "homepage": "https://colinhcook.github.io/fitness-app-clone",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
