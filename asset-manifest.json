@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0566ed5d.css",
+    "main.js": "/static/js/main.16ddf48b.js",
+    "static/media/healthlogo.svg": "/static/media/healthlogo.5bee31287d5037402d0ad3475cdc146b.svg",
+    "static/media/testimonialSample.svg": "/static/media/testimonialSample.4bf399e48b141268a491b76efc9259b1.svg",
+    "static/media/feature2.svg": "/static/media/feature2.88f6646d7e63678e0d8ab90ef8e59138.svg",
+    "index.html": "/index.html",
+    "static/media/feature3.svg": "/static/media/feature3.c48a9c4d73a0c56a31dbd25545f1ead7.svg",
+    "static/media/feature1.svg": "/static/media/feature1.042a2d3ea0dc21c4301e869e90e5bb51.svg",
+    "main.0566ed5d.css.map": "/static/css/main.0566ed5d.css.map",
+    "main.16ddf48b.js.map": "/static/js/main.16ddf48b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0566ed5d.css",
+    "static/js/main.16ddf48b.js"
+  ]
+}
