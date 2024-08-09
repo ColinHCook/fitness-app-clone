@@ -11,7 +11,6 @@
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
