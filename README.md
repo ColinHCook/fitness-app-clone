@@ -56,15 +56,5 @@ Check out the live demo of the application: [Fitness App Clone](https://colinhco
     - Use the macro calculator to set personalized macronutrient targets.
     - Track your intake against these targets.
 
-
-
-## Acknowledgements
-
-- [React](https://reactjs.org/)
-- [Edaman Food Database API](https://developer.edamam.com/food-database-api)
-- [Redux](https://redux.js.org/)
-
----
-
 *Stay healthy and track your progress with the Nutrition Tracker Clone!*
 
